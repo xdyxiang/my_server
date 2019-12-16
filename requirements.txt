@@ -16,7 +16,7 @@ passlib==1.7.1
 python-dateutil==2.8.0
 python-editor==1.0.4
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.1
 six==1.11.0
 SQLAlchemy==1.2.12
 websockets==7.0
